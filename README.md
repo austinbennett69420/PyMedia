@@ -1,2 +1,5 @@
 # PyMedia
-A simple pygame application that controls media
+
+A simple Pygame Media Application that controls media on your device
+
+#**Features**
